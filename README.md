@@ -1,2 +1,2 @@
-# dotnetRPG
-A C# Console Application with RPG concepts
+# RPG with .NET
+A C# Console Application with OOP concepts envolving RPG material.
